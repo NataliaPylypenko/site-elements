@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44d9b185-11f2-4ecf-81e5-c72ef988d147" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/socket_chat/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson/index.html" />
+        <option value="$PROJECT_DIR$/lesson/119-120.js" />
+        <option value="$PROJECT_DIR$/lesson/121-125.js" />
+        <option value="$PROJECT_DIR$/lesson/126-132.js" />
+        <option value="$PROJECT_DIR$/lesson_DOM/19-30.js" />
+        <option value="$PROJECT_DIR$/lesson_DOM/index.html" />
+        <option value="$PROJECT_DIR$/cryptex/index.html" />
+        <option value="$PROJECT_DIR$/cryptex/style.css" />
+        <option value="$PROJECT_DIR$/horse_ride/index.html" />
+        <option value="$PROJECT_DIR$/horse_ride/style.css" />
+        <option value="$PROJECT_DIR$/animated_menu/index.html" />
+        <option value="$PROJECT_DIR$/animated_menu/common.js" />
+        <option value="$PROJECT_DIR$/animated_menu/style.css" />
+        <option value="$PROJECT_DIR$/keyboard/index.html" />
+        <option value="$PROJECT_DIR$/keyboard/common.js" />
+        <option value="$PROJECT_DIR$/keyboard/style.css" />
+        <option value="$PROJECT_DIR$/keyboard_html/index.html" />
+        <option value="$PROJECT_DIR$/keyboard_html/style.css" />
+        <option value="$PROJECT_DIR$/keyboard_html/common.js" />
+        <option value="$PROJECT_DIR$/bank_card/index.html" />
+        <option value="$PROJECT_DIR$/bank_card/style.css" />
+        <option value="$PROJECT_DIR$/lazy_load/style.css" />
+        <option value="$PROJECT_DIR$/remove_the_mats/index.html" />
+        <option value="$PROJECT_DIR$/remove_the_swearwords/index.html" />
+        <option value="$PROJECT_DIR$/zodiac_signs/common.js" />
+        <option value="$PROJECT_DIR$/drop_down_menu/index.html" />
+        <option value="$PROJECT_DIR$/drop_down_menu/style.css" />
+        <option value="$PROJECT_DIR$/drop_down_menu/common.js" />
+        <option value="$PROJECT_DIR$/CSS_overlay/style.css" />
+        <option value="$PROJECT_DIR$/CSS_overlay/index.html" />
+        <option value="$PROJECT_DIR$/API_weather_forecast/index.html" />
+        <option value="$PROJECT_DIR$/API_weather_forecast/style.css" />
+        <option value="$PROJECT_DIR$/telegram_bot/index.html" />
+        <option value="$PROJECT_DIR$/telegram_bot/style.css" />
+        <option value="$PROJECT_DIR$/telegram_bot/common.js" />
+        <option value="$PROJECT_DIR$/lazy_load/index.html" />
+        <option value="$PROJECT_DIR$/typewriter_effect/index.html" />
+        <option value="$PROJECT_DIR$/typewriter_effect/style.css" />
+        <option value="$PROJECT_DIR$/typewriter_effect/common.js" />
+        <option value="$PROJECT_DIR$/guess_the_number/common.js" />
+        <option value="$PROJECT_DIR$/cryptex/common.js" />
+        <option value="$PROJECT_DIR$/zodiac_signs/index.html" />
+        <option value="$PROJECT_DIR$/number_of_PI/index.html" />
+        <option value="$PROJECT_DIR$/API_weather_forecast/common.js" />
+        <option value="$PROJECT_DIR$/bank_card/common.js" />
+        <option value="$PROJECT_DIR$/bookshelf/common.js" />
+        <option value="$PROJECT_DIR$/drop_down_menu - копия/common.js" />
+        <option value="$PROJECT_DIR$/horse_ride/common.js" />
+        <option value="$PROJECT_DIR$/lazy_load/common.js" />
+        <option value="$PROJECT_DIR$/remove_the_swearwords/common.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/composer" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/http-foundation" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="351" />
+    <option name="y" value="-13" />
+    <option name="width" value="1131" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site-elements-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site-elements-git" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\test\project_js" />
+      <recent name="C:\OpenServer\domains\test\pop-up_messages" />
+      <recent name="C:\OpenServer\domains\test\tic_tac_toe" />
+      <recent name="C:\OpenServer\domains\test\password_generation\js" />
+      <recent name="C:\OpenServer\domains\test\password_generation\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\test\lesson" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d9b185-11f2-4ecf-81e5-c72ef988d147" name="Default" comment="" />
+      <created>1539660597627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539660597627</updated>
+      <workItem from="1539660602459" duration="1468000" />
+      <workItem from="1539746283981" duration="1444000" />
+      <workItem from="1540058743061" duration="1773000" />
+      <workItem from="1540097040286" duration="1788000" />
+      <workItem from="1540467903954" duration="1759000" />
+      <workItem from="1540469683194" duration="1225000" />
+      <workItem from="1540614257939" duration="1765000" />
+      <workItem from="1540620304039" duration="1267000" />
+      <workItem from="1540658841764" duration="1795000" />
+      <workItem from="1540660693746" duration="780000" />
+      <workItem from="1540706146758" duration="6050000" />
+      <workItem from="1540886196923" duration="599000" />
+      <workItem from="1540893710274" duration="1555000" />
+      <workItem from="1540950296742" duration="5763000" />
+      <workItem from="1540986703112" duration="3563000" />
+      <workItem from="1541045974458" duration="5405000" />
+      <workItem from="1541134723485" duration="8174000" />
+      <workItem from="1541219021656" duration="6173000" />
+      <workItem from="1541271414233" duration="4925000" />
+      <workItem from="1541417694900" duration="3204000" />
+      <workItem from="1541707831736" duration="61000" />
+      <workItem from="1541823931932" duration="1492000" />
+      <workItem from="1564043029209" duration="2231000" />
+      <workItem from="1564200950495" duration="209000" />
+      <workItem from="1565928949918" duration="3306000" />
+      <workItem from="1566065727748" duration="72000" />
+      <workItem from="1567420335877" duration="1711000" />
+      <workItem from="1567568354041" duration="4334000" />
+      <workItem from="1567654171192" duration="2259000" />
+      <workItem from="1567913040597" duration="611000" />
+      <workItem from="1567942506658" duration="14736000" />
+      <workItem from="1568098223207" duration="12772000" />
+      <workItem from="1568258369539" duration="79000" />
+      <workItem from="1571481128450" duration="1265000" />
+      <workItem from="1571638139937" duration="1230000" />
+      <workItem from="1571897811205" duration="126000" />
+      <workItem from="1571919403742" duration="2747000" />
+      <workItem from="1572065852045" duration="5931000" />
+      <workItem from="1572258243647" duration="3636000" />
+      <workItem from="1572353867711" duration="90000" />
+      <workItem from="1572441343290" duration="6581000" />
+      <workItem from="1572517393621" duration="4258000" />
+      <workItem from="1572596431237" duration="11410000" />
+      <workItem from="1572703179431" duration="1587000" />
+      <workItem from="1572857075143" duration="5674000" />
+      <workItem from="1574083974629" duration="2239000" />
+      <workItem from="1574161730276" duration="5170000" />
+      <workItem from="1574241513869" duration="4167000" />
+      <workItem from="1574321646418" duration="6847000" />
+      <workItem from="1574343966785" duration="4838000" />
+      <workItem from="1574406759903" duration="5676000" />
+      <workItem from="1574491095207" duration="6960000" />
+      <workItem from="1574572484649" duration="8360000" />
+      <workItem from="1574657447922" duration="11151000" />
+      <workItem from="1574747695929" duration="16410000" />
+      <workItem from="1574832365005" duration="12113000" />
+      <workItem from="1574925685094" duration="15268000" />
+      <workItem from="1575011992811" duration="14325000" />
+      <workItem from="1575092361293" duration="1771000" />
+      <workItem from="1575176095713" duration="5951000" />
+      <workItem from="1575259545553" duration="11875000" />
+      <workItem from="1575347843164" duration="2081000" />
+      <workItem from="1575462939060" duration="3695000" />
+      <workItem from="1575518543777" duration="8044000" />
+      <workItem from="1575615782123" duration="2734000" />
+      <workItem from="1575891017452" duration="8445000" />
+      <workItem from="1575970226833" duration="6210000" />
+      <workItem from="1576051472232" duration="12923000" />
+      <workItem from="1576123370692" duration="3133000" />
+      <workItem from="1576144004904" duration="3909000" />
+      <workItem from="1576222688911" duration="12671000" />
+      <workItem from="1576301014309" duration="4891000" />
+      <workItem from="1576387540233" duration="4774000" />
+      <workItem from="1576481238844" duration="13596000" />
+      <workItem from="1576573903045" duration="8125000" />
+      <workItem from="1576655900436" duration="9337000" />
+      <workItem from="1576745257630" duration="15279000" />
+      <workItem from="1576827710203" duration="16568000" />
+      <workItem from="1576902691355" duration="7744000" />
+      <workItem from="1576990735172" duration="1155000" />
+      <workItem from="1577075689825" duration="9321000" />
+      <workItem from="1577160310492" duration="7815000" />
+      <workItem from="1577248139275" duration="15841000" />
+      <workItem from="1577334481260" duration="9681000" />
+      <workItem from="1577419671065" duration="8459000" />
+      <workItem from="1577505309649" duration="7891000" />
+      <workItem from="1577599163939" duration="3555000" />
+      <workItem from="1577682770462" duration="3714000" />
+      <workItem from="1577973512870" duration="599000" />
+      <workItem from="1578034440567" duration="6363000" />
+      <workItem from="1578205648557" duration="2027000" />
+      <workItem from="1578401970002" duration="5591000" />
+      <workItem from="1578467829703" duration="11293000" />
+      <workItem from="1578556693707" duration="4807000" />
+      <workItem from="1578633827083" duration="6786000" />
+      <workItem from="1578738464525" duration="6678000" />
+      <workItem from="1578988335649" duration="6773000" />
+      <workItem from="1579073848446" duration="14967000" />
+      <workItem from="1579170556423" duration="3921000" />
+      <workItem from="1579246400950" duration="8905000" />
+      <workItem from="1579587410208" duration="113000" />
+      <workItem from="1580198422739" duration="2471000" />
+      <workItem from="1580214647636" duration="4752000" />
+      <workItem from="1580287626359" duration="7969000" />
+      <workItem from="1580369476230" duration="11868000" />
+      <workItem from="1580455429515" duration="6315000" />
+      <workItem from="1580705074474" duration="6190000" />
+      <workItem from="1580811792282" duration="1312000" />
+      <workItem from="1580976700233" duration="313000" />
+      <workItem from="1580979316310" duration="6414000" />
+      <workItem from="1581079125877" duration="86000" />
+      <workItem from="1581305822142" duration="19355000" />
+      <workItem from="1581404356673" duration="645000" />
+      <workItem from="1581408992804" duration="7735000" />
+      <workItem from="1581494446717" duration="3279000" />
+      <workItem from="1581577236004" duration="630000" />
+      <workItem from="1581593949202" duration="2553000" />
+      <workItem from="1581744539763" duration="1681000" />
+      <workItem from="1581852267765" duration="405000" />
+      <workItem from="1581853245256" duration="848000" />
+      <workItem from="1581923155658" duration="4612000" />
+      <workItem from="1582012236121" duration="111000" />
+      <workItem from="1589646193277" duration="3428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="665390000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17480719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19428572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cryptex/img/03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/img/05.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/img/04.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/img/06.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/img/01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_the_swearwords/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zodiac_signs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zodiac_signs/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_of_PI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_weather_forecast/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank_card/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshelf/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="105" column="8" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caesars_code/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat_map/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess_board/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clock/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_system/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drop_down_menu - копия/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/endless_slider/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/horse_ride/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jens_lehmann/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infinity_slider/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/double_scroll_effect/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptex/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="62" lean-forward="false" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_the_number/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_load/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/live_search/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-blend-mode/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_of_PI/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/password_generation/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/password_generation/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo_switching_effect/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizza/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pop-up_messages/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progress_bar/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_the_swearwords/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider_widths/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_goods/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabs/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tic_tac_toe/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer_popup/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typewriter_effect/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/копия/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/копия/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive_menu/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

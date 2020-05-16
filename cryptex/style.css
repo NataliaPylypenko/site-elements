@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.container-line {
+    display: flex;
+    justify-content: center;
+}
+.container-line {
+    content: "";
+    width: 100%;
+}
+.square {
+    width: 128px;
+    height: 128px;
+    border: 1px solid #c0c0c0;
+    background-size: cover;
+}
+

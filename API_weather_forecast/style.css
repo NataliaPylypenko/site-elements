@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.package {
+    width: 150px;
+    border: 1px solid #00a046;
+    text-align: center;
+    padding: 20px;
+    background: darkseagreen;
+}
+
+.package-name {
+    color: #00a046;
+}
+
+.button {
+    background: #00a046;
+    padding: 5px 10px;
+}
+
+.features {
+    list-style-type: none;
+}
+
+hr {
+    margin: 20px;
+}

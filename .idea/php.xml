@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/composer" />
+      <path value="$PROJECT_DIR$/socket_chat/vendor/symfony/http-foundation" />
+    </include_path>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+h1 {
+    margin: 20px 0 40px 0;
+}
+
+/* ======================== */
+
+.tree, .tree ul {
+    list-style-type: none;
+}
+
+.tree span:hover {
+    font-weight: bold;
+}
+
+.tree span {
+    cursor: pointer;
+}
+
+.hide {
+
+}
+
+.hide::before {
+    content: "+";
+}
+.show::before {
+    content: "-";
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>Progress Bar</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <label for="text-progress">
+        Enter the time in seconds:  <input type="text" name="text-progress" id="text-progress">
+    </label>
+    <button id="button-progress">Send</button>
+
+    <div>
+        <progress id="user-progress" value="0" max="100"></progress>
+        <span id="progress-value"></span>
+    </div>
+
+    <p class="hidden-block">Загрузка завершена</p>
+
+<script src="common.js"></script>
+
+</body>
+</html>

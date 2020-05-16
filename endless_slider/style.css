@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#slide {
+    border: 3px solid #c0c0c0;
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    position: relative;
+}
+.slide-single {
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+    transition: all ease 1s;
+}
+

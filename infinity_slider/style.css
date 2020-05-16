@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.infinity-wrap {
+    border: 1px solid #000;
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    position: relative;
+}
+.infinity {
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+.infinity img {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    opacity: 1;
+    transition: all ease 1s;
+}
+.infinity .opacity0 {
+    opacity: 0;
+}
+
+.btn-infinity-up, .btn-infinity-down {
+    width: 36px;
+    height: 36px;
+    background: red;
+    background-size: contain;
+}
+.btn-infinity-down {
+    background: green;
+    background-size: contain;
+}

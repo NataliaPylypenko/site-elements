@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/cboden/ratchet" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/evenement/evenement" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/ratchet/rfc6455" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/dns" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/event-loop" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/promise-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/socket" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/react/stream" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/socket_chat/vendor/symfony/routing" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

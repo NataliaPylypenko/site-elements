@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>Сreate a pizza</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div>
+    <p>
+        Создать панель меню, где пользователь может выбрать компоненты пиццы.
+        Некоторые компоненты обязательные, некоторые можно менять.
+        Вычислить стоимость и калорийность пиццы.
+    </p>
+</div>
+
+<div>
+    <h1>Пицца</h1>
+    <p><input type="checkbox" checked disabled data-cost="10" data-kkal="75" class="menu">Основа</p>
+    <br>
+    <hr>
+    <br>
+
+    <h2>Наполнение</h2>
+    <p><input type="checkbox" checked data-cost="20" data-kkal="200" class="menu">Курица</p>
+    <p><input type="checkbox" data-cost="12" data-kkal="100" class="menu">Сыр</p>
+    <p><input type="checkbox" data-cost="8" data-kkal="50" class="menu">Салат</p>
+    <p><input type="checkbox" data-cost="2" data-kkal="20" class="menu">Огурец</p>
+    <p><input type="checkbox" data-cost="4" data-kkal="67" class="menu">Помидор</p>
+    <br>
+    <hr>
+    <br>
+
+    <h2>Соусы</h2>
+    <p><input type="checkbox" checked data-cost="5" data-kkal="15" class="menu">Томатный кетчуп</p>
+    <p><input type="checkbox" data-cost="5" data-kkal="17" class="menu">Горчица</p>
+    <p><input type="checkbox" data-cost="5" data-kkal="12" class="menu">Майонез</p>
+    <p><input type="checkbox" data-cost="10" data-kkal="35" class="menu">Соус</p>
+    <br>
+    <hr>
+    <br>
+
+    <h3>Итого</h3>
+
+    <p>Калорийность: <span id="kkal"></span></p>
+    <p>Цена: <span id="cost"></span></p>
+    <br>
+    <button id="result">Счет</button>
+</div>
+
+<script src="common.js"></script>
+
+</body>
+</html>

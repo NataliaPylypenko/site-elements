@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-center {
+    text-align: center;
+}
+.logo {
+    width: 128px;
+    display: block;
+    margin: 30px auto;
+}
+
+.out {
+    font-size: 24px;
+    font-family: monospace;
+    text-align: left;
+}
+.block {
+    width: 300px;
+    margin: 10px auto;
+}

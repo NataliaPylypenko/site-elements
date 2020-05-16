@@ -1,0 +1,24 @@
+#slider {
+    width: 525px;
+    height: 130px;
+    border: 5px solid #000;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+#band {
+    width: 1225px;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+
+#band img {
+    float: left;
+}
+
+#band::after {
+    content: "";
+    display: block;
+    clear: both;
+}

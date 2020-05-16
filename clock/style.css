@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#clock {
+    width: 900px;
+    height: 900px;
+    margin: 50px auto;
+    border: 5px solid #004400;
+    border-radius: 450px;
+    background-image: url("bg.jpg");
+    background-size: 100%;
+    position: relative;
+}
+#sec, #min {
+    display: block;
+    position: absolute;
+    left: 290px;
+    top: 100px;
+}
+
+#hour {
+    display: block;
+    position: absolute;
+    left: 311px;
+    top: 150px;
+}

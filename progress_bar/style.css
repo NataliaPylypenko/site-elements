@@ -1,0 +1,8 @@
+.hidden-block {
+    display: none;
+}
+
+div {
+    display: block;
+    margin: 15px 0;
+}

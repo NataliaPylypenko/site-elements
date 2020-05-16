@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu {
+    width: 250px;
+    height: 100vh;
+    background: cyan;
+    position: fixed;
+    left: -230px;
+    color: #ffffff;
+    text-align: center;
+    transition: all ease 1s;
+}

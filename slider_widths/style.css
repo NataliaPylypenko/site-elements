@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+footer {}
+
+.slider {
+    width: 300px;
+    position: relative;
+    border: 4px solid #caccd1;
+    margin: 100px auto;
+    overflow: hidden;
+}
+.row {
+    position: relative;
+    height: 250px;
+    overflow: hidden;
+    left: 0;
+    transition: all ease 1s;
+}
+.slide {
+    height: 250px;
+    float: left;
+}
+
+.w55px {
+    width: 55px;
+}
+.w80px {
+    width: 80px;
+}
+.w150px {
+    width: 150px;
+}
+.w165px {
+    width: 165px;
+}
+.w180px {
+    width: 180px;
+}
+.w250px {
+    width: 250px;
+}
+.w280px {
+    width: 280px;
+}
+
+.red {
+    background: #ff0000;
+}
+.orange {
+    background: #ffA500;
+}
+.yellow {
+    background: #ffff00;
+}
+.green {
+    background: #008000;
+}
+.blue {
+    background: #007bff;
+}
+.dark_blue {
+    background: #0000ff;
+}
+.violet {
+    background: #9400d3;
+}

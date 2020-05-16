@@ -1,0 +1,30 @@
+
+.container {
+    width: 600px;
+    height: 400px;
+    position: relative;
+    background: #ffe4c4;
+    margin: 200px auto;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.block:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.block-left {
+    width: 300px;
+    background: #00ffff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.block-right {
+    width: 300px;
+    background: #007bff;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

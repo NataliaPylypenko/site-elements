@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-bg {
+    margin: 30px;
+    position: relative;
+}
+.header-bg h2 {
+    display: inline-block;
+}
+.square-bg {
+    min-height: 40px;
+    width: 100%;
+    background: orange;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
